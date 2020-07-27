@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aalhojory/sit725-prac2/issues"
   },
-  "homepage": "https://github.com/aalhojory/sit725-prac2#readme"
+  "homepage": "https://github.com/aalhojory/sit725-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
